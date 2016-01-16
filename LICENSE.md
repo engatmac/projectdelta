@@ -1,4 +1,4 @@
-The MIT License (MIT)
+The Intercom License (ICL)
 
 Copyright (c) 2016 engatmac
 
