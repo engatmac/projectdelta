@@ -1,1 +1,0 @@
-man kharam felanam ina
