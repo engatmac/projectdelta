@@ -1,4 +1,4 @@
-The Interling exchange License (IEL)
+The LingExchange License (LEL)
 
 Copyright (c) 2016 engatmac
 
