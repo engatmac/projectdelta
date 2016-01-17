@@ -1,4 +1,4 @@
-The Intercom License (ICL)
+The Interlingexchange License (IEL)
 
 Copyright (c) 2016 engatmac
 
